@@ -1,2 +1,1 @@
-# c24-supplymission2
-supplymisson2
+# SupplyMission
